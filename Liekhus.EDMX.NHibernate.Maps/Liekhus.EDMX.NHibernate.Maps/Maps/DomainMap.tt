@@ -10,7 +10,7 @@
 	// ******************************************
 	// *** CHANGE THIS TO YOUR EDMX FILE NAME ***
 	// ******************************************
-	string edxmFileName = @"..\..\Lansing.LegacyInternational.Domain\DomainModel.edmx";
+	string edxmFileName = @"..\..\{PATH}\DomainModel.edmx";
 
     string inputFile = edxmFileName;
     string inputPath = path + "\\" + edxmFileName;
